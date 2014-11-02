@@ -4,6 +4,13 @@ Solutions for IBM [Ponder This](http://domino.research.ibm.com/Comm/wwwr_ponder.
 
 Many solutions are incomplete and/or imperfect....feel free to submit a pull request with suggestions.
 
+## 2013 Summary
+
+| Month         | Solution Available? | 
+| ------------- | ------------------- |
+| Nov           | Y |
+| Dec           | Y |
+
 ## 2014 Summary
 
 | Month         | Solution Available? | 
@@ -17,3 +24,5 @@ Many solutions are incomplete and/or imperfect....feel free to submit a pull req
 | Jul           | N |
 | Aug           | Y |
 | Sep           | N |
+| Oct           | N |
+| Nov           | N |
